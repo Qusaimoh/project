@@ -1,0 +1,31 @@
+body{
+    background-color:rgba(213,225,239,255);
+    position: relative;
+}
+.card{
+    background-color:#fff;
+    position: absolute;
+    width: 300px;
+    border-radius: 13px;
+    top: 113px;
+    left: 500px;
+}
+.cont{
+    text-align: center;
+    padding-top: 14px;
+}
+#p1{
+    font-size: 25px;
+    font-weight: 800;
+    color: rgba(30,36,53,255);
+}
+#p2{
+    font-size: 13px;
+    font-weight: 200;
+    color:rgba(149,149,158,255);
+    padding: 0px 5px 20px 5px;
+
+}
+#image{
+    border-radius: 9px;
+}
